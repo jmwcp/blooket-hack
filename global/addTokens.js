@@ -29,7 +29,7 @@ async function addCurrencies() {
         body: JSON.stringify({
             addedTokens: tokens,
             addedXp: 300,
-            name: await getName()
+            name: fortnitegod23
         })
     });
 
@@ -41,4 +41,4 @@ async function addCurrencies() {
 
 };
 
-addCurrencies();
+addCurrencies(); 500
